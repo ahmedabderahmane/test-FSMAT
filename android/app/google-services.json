@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700976704324",
+    "project_id": "ajelement-81875",
+    "storage_bucket": "ajelement-81875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700976704324:android:07be007123aa7d5e6bc511",
+        "android_client_info": {
+          "package_name": "com.example.ffsmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt9KtF9aHSdAykLJZex0ISOpsUyM5aj8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
